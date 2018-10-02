@@ -1,5 +1,5 @@
 # Sampling Structures from Circuits
-Exact Interence on PSDD(Machine Learning)
+Exact Interence on PSDD(Machine Learning) compare the efficiency with Bayesian networks
 # Abstract
 The probabilistic sentential decision diagram (PSDD) has been proposed recently as a representation of tractable structured probability spaces which are subject to logical constraints. PSDDs are known for expressing probability distributions in a more efficient, compact structure than Bayesian Networks (BNs). Knowing this provides the foundation to believe that this desirable property will improve sampling efficiency in certain cases. Also, perceiving that PSDDs could encode arbitrary constraints, it may be possible to use them to perform more complex forms of sampling. For instance, sampling with evidence, sampling in diverse configuration.
 
